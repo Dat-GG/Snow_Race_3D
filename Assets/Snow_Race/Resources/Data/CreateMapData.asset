@@ -1,0 +1,7823 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a2b365940316147b6e13e858de03d0, type: 3}
+  m_Name: CreateMapData
+  m_EditorClassIdentifier: 
+  mapObjects:
+  - id: 1
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 23
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000200000003000000
+    isHaveDisaster: 0
+  - id: 2
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 20
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000004000000
+    isHaveDisaster: 0
+  - id: 3
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 030000000400000005000000
+    isHaveDisaster: 1
+  - id: 4
+    constructionType:
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 7
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000500000006000000
+    isHaveDisaster: 0
+  - id: 5
+    constructionType:
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 010000000200000003000000
+    isHaveDisaster: 1
+  - id: 6
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 21
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000300000005000000
+    isHaveDisaster: 0
+  - id: 7
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 050000000700000008000000
+    isHaveDisaster: 1
+  - id: 8
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 7
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000400000005000000
+    isHaveDisaster: 1
+  - id: 9
+    constructionType:
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 080000000a0000000f000000
+    isHaveDisaster: 1
+  - id: 10
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000006000000
+    isHaveDisaster: 0
+  - id: 11
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 5
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 08000000090000000a000000
+    isHaveDisaster: 1
+  - id: 12
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 28
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 020000000400000005000000
+    isHaveDisaster: 0
+  - id: 13
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 21
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000300000008000000
+    isHaveDisaster: 1
+  - id: 14
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 05000000070000000a000000
+    isHaveDisaster: 1
+  - id: 15
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 21
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 060000000800000009000000
+    isHaveDisaster: 0
+  - id: 16
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 42
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 010000000200000003000000
+    isHaveDisaster: 1
+  - id: 17
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 17
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 090000000b0000000c000000
+    isHaveDisaster: 0
+  - id: 18
+    constructionType:
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 30
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 34
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 040000000800000009000000
+    isHaveDisaster: 1
+  - id: 19
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000200000003000000
+    isHaveDisaster: 0
+  - id: 20
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 11
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000005000000
+    isHaveDisaster: 0
+  - id: 21
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 10
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 0c0000000d0000000e000000
+    isHaveDisaster: 1
+  - id: 22
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 07000000080000000a000000
+    isHaveDisaster: 0
+  - id: 23
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000004000000
+    isHaveDisaster: 0
+  - id: 24
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000200000005000000
+    isHaveDisaster: 1
+  - id: 25
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 32
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 010000000400000005000000
+    isHaveDisaster: 0
+  - id: 26
+    constructionType:
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 21
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 060000000700000008000000
+    isHaveDisaster: 1
+  - id: 27
+    constructionType:
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000800000009000000
+    isHaveDisaster: 0
+  - id: 28
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 0c0000000d0000000e000000
+    isHaveDisaster: 1
+  - id: 29
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 020000000400000005000000
+    isHaveDisaster: 1
+  - id: 30
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 11
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 7
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000800000009000000
+    isHaveDisaster: 0
+  - id: 31
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 11
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 21
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 060000000700000008000000
+    isHaveDisaster: 1
+  - id: 32
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 17
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000004000000
+    isHaveDisaster: 1
+  - id: 33
+    constructionType:
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 5
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000200000003000000
+    isHaveDisaster: 0
+  - id: 34
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 08000000090000000a000000
+    isHaveDisaster: 0
+  - id: 35
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 30
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 34
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 020000000300000004000000
+    isHaveDisaster: 1
+  - id: 36
+    constructionType:
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 24
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 0b0000000d0000000f000000
+    isHaveDisaster: 1
+  - id: 37
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 14
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000400000005000000
+    isHaveDisaster: 0
+  - id: 38
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 21
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 070000000800000009000000
+    isHaveDisaster: 0
+  - id: 39
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000005000000
+    isHaveDisaster: 1
+  - id: 40
+    constructionType:
+    - challenge: 25
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 36
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 06000000070000000a000000
+    isHaveDisaster: 1
+  - id: 41
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 16
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 0a0000000c0000000f000000
+    isHaveDisaster: 0
+  - id: 42
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 28
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 020000000400000005000000
+    isHaveDisaster: 0
+  - id: 43
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 21
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 08000000090000000a000000
+    isHaveDisaster: 1
+  - id: 44
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 0b0000000c0000000d000000
+    isHaveDisaster: 1
+  - id: 45
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 01000000080000000b000000
+    isHaveDisaster: 0
+  - id: 46
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 32
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 02000000090000000a000000
+    isHaveDisaster: 1
+  - id: 47
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 0b0000000d0000000f000000
+    isHaveDisaster: 0
+  - id: 48
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 28
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 04000000050000000e000000
+    isHaveDisaster: 1
+  - id: 49
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 22
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 02000000040000000f000000
+    isHaveDisaster: 1
+  - id: 50
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 32
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 50
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 54
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 0c0000000d0000000e000000
+    isHaveDisaster: 1
+  - id: 51
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 36
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 06000000080000000b000000
+    isHaveDisaster: 0
+  - id: 52
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000200000003000000
+    isHaveDisaster: 1
+  - id: 53
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 21
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 06000000080000000c000000
+    isHaveDisaster: 1
+  - id: 54
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 14
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 01000000030000000e000000
+    isHaveDisaster: 1
+  - id: 55
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 0c0000000d0000000f000000
+    isHaveDisaster: 1
+  - id: 56
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 30
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 34
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 06000000080000000a000000
+    isHaveDisaster: 1
+  - id: 57
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 01000000090000000c000000
+    isHaveDisaster: 1
+  - id: 58
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 5
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000004000000
+    isHaveDisaster: 1
+  - id: 59
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 17
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 060000000800000009000000
+    isHaveDisaster: 1
+  - id: 60
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 8
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 090000000b0000000c000000
+    isHaveDisaster: 0
+  - id: 61
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 60
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 10
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 08000000090000000a000000
+    isHaveDisaster: 1
+  - id: 62
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 20
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 010000000200000005000000
+    isHaveDisaster: 1
+  - id: 63
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 14
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 02000000070000000a000000
+    isHaveDisaster: 0
+  - id: 64
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 17
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 7
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000e0000000f000000
+    isHaveDisaster: 1
+  - id: 65
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 060000000800000009000000
+    isHaveDisaster: 1
+  - id: 66
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 11
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 13
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 040000000b0000000c000000
+    isHaveDisaster: 0
+  - id: 67
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 020000000300000004000000
+    isHaveDisaster: 1
+  - id: 68
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 050000000600000007000000
+    isHaveDisaster: 1
+  - id: 69
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 32
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 060000000600000006000000
+    isHaveDisaster: 1
+  - id: 70
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 10
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 0b0000000e0000000f000000
+    isHaveDisaster: 0
+  - id: 71
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 6
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 7
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 5
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 11
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 050000000800000009000000
+    isHaveDisaster: 1
+  - id: 72
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 36
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 01000000020000000f000000
+    isHaveDisaster: 1
+  - id: 73
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 010000000200000006000000
+    isHaveDisaster: 0
+  - id: 74
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 11
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 7
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 10
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 090000000a0000000c000000
+    isHaveDisaster: 1
+  - id: 75
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 8
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 23
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 0c0000000d0000000e000000
+    isHaveDisaster: 1
+  - id: 76
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 50
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 54
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 010000000800000009000000
+    isHaveDisaster: 1
+  - id: 77
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 30
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 24
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 34
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    index: 02000000090000000a000000
+    isHaveDisaster: 0
+  - id: 78
+    constructionType:
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 12
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 13
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 15
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 8
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 9
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 040000000500000009000000
+    isHaveDisaster: 1
+  - id: 79
+    constructionType:
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 4
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 14
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 1
+      isHaveRailway: 0
+    - challenge: 6
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 22
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 7
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 11
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 12
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 18
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 9
+      isAscent: 1
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 3
+      isAscent: 0
+      isBridge: 1
+      isEnd: 0
+      roadLength: 16
+      isLava: 0
+      isWater: 1
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 1
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 5
+      isAscent: 0
+      isBridge: 1
+      isEnd: 1
+      roadLength: 8
+      isLava: 1
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 1
+    index: 0b0000000c0000000d000000
+    isHaveDisaster: 1
+  - id: 80
+    constructionType:
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 15
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 2
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 19
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 16
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 21
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 18
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 0
+      isAscent: 0
+      isBridge: 0
+      isEnd: 0
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    - challenge: 20
+      isAscent: 0
+      isBridge: 0
+      isEnd: 1
+      roadLength: 0
+      isLava: 0
+      isWater: 0
+      isHaveSlide: 0
+      isHaveRailway: 0
+    index: 090000000900000009000000
+    isHaveDisaster: 1

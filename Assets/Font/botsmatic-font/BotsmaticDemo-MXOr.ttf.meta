@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d58dbac43b1bd8641a3c487f19a7aeca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Botsmatic Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0e126ed756218d4f81532c074cf42f2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

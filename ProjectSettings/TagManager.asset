@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - Ground
+  - FinishPos
+  - Enemy
+  - Ball
+  - Elevator
+  - CheckPoint1
+  - ScorePos
+  - StartScore
+  - CheckPoint2
+  - PlayerBridge
+  - PlayerPoint
+  - CheckPoint3
+  - PlayerLadder
+  - EnemyLadder1
+  - EnemyLadder2
+  - EnemyLadder3
+  - Slide
+  - Cart
+  - SkiAds
+  - Lava
+  - Ice
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BG
+  - Water
+  - UI
+  - Player
+  - UnlockSkin
+  - 
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 1966534051
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1597760207
+    locked: 0

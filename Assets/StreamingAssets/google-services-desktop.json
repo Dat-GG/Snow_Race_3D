@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753722782518",
+    "project_id": "snow-race-io",
+    "storage_bucket": "snow-race-io.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753722782518:android:07c46139313b9609ed3997",
+        "android_client_info": {
+          "package_name": "com.snowrace.io.run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753722782518-djbq936qktuse4h5ebu2h95c1gaj0jsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkHwivccr0j9dTW5eJtZvcx6oLZyxKbs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753722782518-djbq936qktuse4h5ebu2h95c1gaj0jsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

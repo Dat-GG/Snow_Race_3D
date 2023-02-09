@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cc8b4d9bafb2ff47a8bf65ffb0a1b4a, type: 3}
+  m_Name: ObjectMapData
+  m_EditorClassIdentifier: 
+  objectInfo:
+  - id: 1
+    challenge: 0
+    prefab: {fileID: 2855690997880278724, guid: 770475b7086d1294faaf545ca97d8f95, type: 3}
+  - id: 2
+    challenge: 1
+    prefab: {fileID: 182286738952232599, guid: dbba7b10b238a0749a203da47a18c0a1, type: 3}
+  - id: 3
+    challenge: 2
+    prefab: {fileID: 5702885706481153852, guid: 44352a74cfa021945bef71d2347fbb0e, type: 3}
+  - id: 4
+    challenge: 3
+    prefab: {fileID: 8753686336640519356, guid: 09eb931ab63c9a94e934a3a39cdbb714, type: 3}
+  - id: 5
+    challenge: 4
+    prefab: {fileID: 4334076218279823402, guid: d4457bcbccc22ed42b8e379338379162, type: 3}
+  - id: 6
+    challenge: 5
+    prefab: {fileID: 6241037368254799844, guid: 00228577d3f145a40a633382c05d7148, type: 3}
+  - id: 7
+    challenge: 6
+    prefab: {fileID: 1295955502821367541, guid: 90c882521b4474249a4f679f1df43c92, type: 3}
+  - id: 8
+    challenge: 7
+    prefab: {fileID: 5029793689039724649, guid: 42399ee4f4b92714188251f1bada0061, type: 3}
+  - id: 9
+    challenge: 8
+    prefab: {fileID: 4762177074314586349, guid: 613c39924eb51a24eae3320807d87121, type: 3}
+  - id: 10
+    challenge: 9
+    prefab: {fileID: 4588813177153940489, guid: 90845fc73c3f07b4ea1a10838d16ad72, type: 3}
+  - id: 11
+    challenge: 10
+    prefab: {fileID: 6415445203439348849, guid: 728c4e638e779284b86ede15b58887cd, type: 3}
+  - id: 12
+    challenge: 11
+    prefab: {fileID: 6854689409651968409, guid: f3acb14d4b9a9414eb75bc399e8c9c85, type: 3}
+  - id: 13
+    challenge: 12
+    prefab: {fileID: 4954339623187285248, guid: ea97454c64c1c254581084101ccc4555, type: 3}
+  - id: 14
+    challenge: 13
+    prefab: {fileID: 6733907237744297275, guid: b934989eb09de3246b2b1b023482511b, type: 3}
+  - id: 15
+    challenge: 14
+    prefab: {fileID: 5389507890302506614, guid: 21b9f569393248f4db2f840457c93a80, type: 3}
+  - id: 16
+    challenge: 15
+    prefab: {fileID: 4721889244029769223, guid: 91c4517584660044cb5915c3c615d592, type: 3}
+  - id: 17
+    challenge: 16
+    prefab: {fileID: 2919256802649310569, guid: 75e51f608356ea74984c3d9d0aea4879, type: 3}
+  - id: 18
+    challenge: 17
+    prefab: {fileID: 400158292528982219, guid: d0b72815dc3497244a7bf5409f33e80c, type: 3}
+  - id: 19
+    challenge: 18
+    prefab: {fileID: 2182486717827716888, guid: 0dd0da0fcbde6f04ea0ca71f489da5ec, type: 3}
+  - id: 20
+    challenge: 19
+    prefab: {fileID: 3059874819602008793, guid: 93bd737ac0fd80e4ca7a62e2ea231bc3, type: 3}
+  - id: 21
+    challenge: 20
+    prefab: {fileID: 1386938831395315989, guid: 24e23c6a9569b384d910d213d81c1a08, type: 3}
+  - id: 22
+    challenge: 21
+    prefab: {fileID: 8171403874838237292, guid: 28fc82cfe93ff44449bc498eafb09bc4, type: 3}
+  - id: 23
+    challenge: 22
+    prefab: {fileID: 5715376680039689035, guid: 3de7de812e96b3f43a65c0f17d42a6c9, type: 3}
+  - id: 24
+    challenge: 23
+    prefab: {fileID: 7970213715380426581, guid: e5895af57b0641d45b735542cac23a5c, type: 3}
+  - id: 25
+    challenge: 24
+    prefab: {fileID: 2078014381777923077, guid: dff8a0afd1774f446b2f2341f24080f3, type: 3}
+  - id: 26
+    challenge: 25
+    prefab: {fileID: 4054095656467318790, guid: dfc2008863d4e5c4d9aece8329e784c3, type: 3}
